@@ -1,0 +1,36 @@
+body{
+    background: rgb(42, 66, 100);
+    font: normal ;
+}
+
+header{
+    color: tan;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+section{
+    background: rgb(248, 246, 246);
+    border-radius:10px ;
+    padding: 55px;
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    box-shadow: 20px 20px 20px black;
+    text-align: center;
+}
+
+
+footer{
+    color: brown;
+    text-align: center;
+    font-size: 60px;
+    font-style: italic;
+
+
+}
+
+#Ano{
+    text-align: center;
+}
